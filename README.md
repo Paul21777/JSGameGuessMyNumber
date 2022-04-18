@@ -3,7 +3,7 @@ Project built during Jonas Schmedtmann's courses on [UDEMY](https://www.udemy.co
 [CLICK HERE TO PLAY THE GAME](https://paul21777.github.io/JSGameGuessMyNumber/)
 
 ## Screenshots
-![[screenshots-base.png]]
+![images/screenshot-base.png]
 
 ![[screenshot-valid.png]]
 
